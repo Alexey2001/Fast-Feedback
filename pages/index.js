@@ -9,11 +9,11 @@ const Home = () => (
 
     <main>
       <h1 className="title">
-        Fastfeedback
+        Fast feedback
       </h1>
 
       <p className="description">
-        Get started by editing <code>pages/index.js</code>
+        Get started by alex <code>pages/index.js</code>
       </p>
 
       <div className="grid">

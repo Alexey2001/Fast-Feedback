@@ -9,7 +9,7 @@ const Home = () => (
 
     <main>
       <h1 className="title">
-        Fast feedback
+        Fast feedback by alex
       </h1>
 
       <p className="description">
